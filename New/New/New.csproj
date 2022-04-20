@@ -52,11 +52,11 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="mohamed.cs">
+    <Compile Include="mazen.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="mohamed.Designer.cs">
-      <DependentUpon>mohamed.cs</DependentUpon>
+    <Compile Include="mazen.Designer.cs">
+      <DependentUpon>mazen.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
