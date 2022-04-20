@@ -66,8 +66,8 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="mohamed.resx">
-      <DependentUpon>mohamed.cs</DependentUpon>
+    <EmbeddedResource Include="mazen.resx">
+      <DependentUpon>mazen.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
